@@ -1,7 +1,7 @@
 <template>
     <div class="copyright">
-        <p>This game owned by RHP Team in Vue 3 course for begginers -/
-        <a href="#">view here</a> 
+        <p>This game owned by Anh Phuong in Vue 3 course-/
+        <a href="https://github.com/anhphuong662001/project-VueJS-app-pokemon">view here</a> 
     </p>
     </div>
 </template>

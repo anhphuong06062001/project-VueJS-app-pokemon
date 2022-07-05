@@ -7,7 +7,7 @@
   />
   <ResultScreenVue v-if="statusMatch === 'result'" 
   :timer="timer" 
-  @onStartAgain="statusMatch === 'default'"
+  @onStartAgain="statusMatch ='default'"
   />
 
   <CoppyRightScreenVue />
